@@ -9,6 +9,10 @@ This is a project to practice Ruby on rails and creating a almost-full customiza
    <img src='http://railscasts.com/static/episodes/stills/284-active-admin.png' width="32%" height="200" >
 </div>
 
+* [Ruby](https://www.ruby-lang.org/en/)
+* [Ruby on rails](http://rubyonrails.org/)
+* [ActiveAdmin](https://activeadmin.info/)
+
 ## How to use it:
 
 You can clone this repo but before launching it, you need some prerequisites: 
