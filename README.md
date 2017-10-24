@@ -29,9 +29,13 @@ The index will show the last timeline, if you want to change this, go to the tim
 ## What it looks like :
 
 <div style="display:inline;">
-   <img src ='https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png' width="33%" height="200" >
-   <img src='http://sdtimes.com/wp-content/uploads/2016/07/0701.sdt-rails.jpg' width="33%" height="200" >
-   <img src='http://railscasts.com/static/episodes/stills/284-active-admin.png' width="33%" height="200" >
+   <img src ='https://raw.githubusercontent.com/GabrieleVir/Timeline-generator/master/Timeline/extern/screenshotstimeline.png' width="33%" height="200" >
+   <img src='https://raw.githubusercontent.com/GabrieleVir/Timeline-generator/master/Timeline/extern/screenshots2timeline.png' width="33%" height="200" >
+   <img src='https://raw.githubusercontent.com/GabrieleVir/Timeline-generator/master/Timeline/extern/screenshots3timeline.png' width="33%" height="200" >
+   <img src='https://raw.githubusercontent.com/GabrieleVir/Timeline-generator/master/Timeline/extern/screenshots4timeline.png' width="33%" height="200" >
+   <img src='https://raw.githubusercontent.com/GabrieleVir/Timeline-generator/master/Timeline/extern/screenshots5timeline.png' width="33%" height="200" >
+   <img src='https://raw.githubusercontent.com/GabrieleVir/Timeline-generator/master/Timeline/extern/screenshots6timeline.png' width="33%" height="200" >  
+   <img src='https://raw.githubusercontent.com/GabrieleVir/Timeline-generator/master/Timeline/extern/screenshots7timeline.png' width="33%" height="200" >
 </div>
 
 ### For questions
