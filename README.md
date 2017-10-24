@@ -4,9 +4,9 @@ This is a project to practice Ruby on rails and creating a almost-full customiza
 
 ## Technologies used:
 <div style=" display:inline; ">
-  <img src ='https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png' width="32%" height="200" >
-   <img src='http://sdtimes.com/wp-content/uploads/2016/07/0701.sdt-rails.jpg' width="32%" height="200" >
-   <img src='http://railscasts.com/static/episodes/stills/284-active-admin.png' width="32%" height="200" >
+  <img src ='https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png' width="33%" height="200" >
+   <img src='http://sdtimes.com/wp-content/uploads/2016/07/0701.sdt-rails.jpg' width="33%" height="200" >
+   <img src='http://railscasts.com/static/episodes/stills/284-active-admin.png' width="33%" height="200" >
 </div>
 
 * [Ruby](https://www.ruby-lang.org/en/)
@@ -29,11 +29,9 @@ The index will show the last timeline, if you want to change this, go to the tim
 ## What it looks like :
 
 <div style="display:inline;">
-   <a href="https://www.ruby-lang.org/en/"><img src ='https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png' width="33%" height="200" ></a>
-
-   <a href="http://rubyonrails.org/"><img src='http://sdtimes.com/wp-content/uploads/2016/07/0701.sdt-rails.jpg' width="33%" height="200" ></a>
-
-   <a href="https://activeadmin.info/"><img src='http://railscasts.com/static/episodes/stills/284-active-admin.png' width="33%" height="200" >
+   <img src ='https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png' width="33%" height="200" >
+   <img src='http://sdtimes.com/wp-content/uploads/2016/07/0701.sdt-rails.jpg' width="33%" height="200" >
+   <img src='http://railscasts.com/static/episodes/stills/284-active-admin.png' width="33%" height="200" >
 </div>
 
 ### For questions
