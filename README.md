@@ -8,7 +8,7 @@ This is a project to practice Ruby on rails and creating a almost-full customiza
 
    <a href="http://rubyonrails.org/"><img src='http://sdtimes.com/wp-content/uploads/2016/07/0701.sdt-rails.jpg' width="32%" height="200" ></a>
 
-   <a href="https://activeadmin.info/"><img src='http://railscasts.com/static/episodes/stills/284-active-admin.png' width="32%" height="200" >
+   <a href="https://activeadmin.info/"><img src='http://railscasts.com/static/episodes/stills/284-active-admin.png' width="32%" height="200" ></a>
 </div>
 
 ## How to use it:
