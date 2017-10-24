@@ -4,11 +4,9 @@ This is a project to practice Ruby on rails and creating a almost-full customiza
 
 ## Technologies used:
 <div style=" display:inline; ">
-   <a href="https://www.ruby-lang.org/en/"><img src ='https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png' width="32%" height="200" ></a>
-
-   <a href="http://rubyonrails.org/"><img src='http://sdtimes.com/wp-content/uploads/2016/07/0701.sdt-rails.jpg' width="32%" height="200" ></a>
-
-   <a href="https://activeadmin.info/"><img src='http://railscasts.com/static/episodes/stills/284-active-admin.png' width="32%" height="200" ></a>
+  <img src ='https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png' width="32%" height="200" >
+   <img src='http://sdtimes.com/wp-content/uploads/2016/07/0701.sdt-rails.jpg' width="32%" height="200" >
+   <img src='http://railscasts.com/static/episodes/stills/284-active-admin.png' width="32%" height="200" >
 </div>
 
 ## How to use it:
