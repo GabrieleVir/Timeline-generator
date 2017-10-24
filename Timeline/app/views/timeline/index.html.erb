@@ -1,0 +1,64 @@
+
+
+<!-- Timeline starts -->
+<style>
+.titre-principal {
+  font-family: <%= @timeline.font.font_family %>;
+  margin-top: 0px;
+}
+
+.timeline-container {
+  background-color: <%= @timeline.background.color %>;
+}
+/* line in the middle of the timeline color */
+.timeline:before {
+  background-color: <%= @timeline.line_color%>;
+}
+
+</style>
+<div class="timeline-container">
+  
+  <header class="page-header">
+    <h1 class="titre-principal"><%= @timeline.name %></h1>
+  </header>
+
+ 
+  <!-- cette variable est pour alterner gauche droite dans la timeline -->
+  
+  <% @count = 0 %>
+  <ul class="timeline">
+  <% @references.each do |reference| %>
+    <% if reference.timeline_career.name == @timeline.name %>
+      <li><div class="tldate" style="background-color: <%= reference.background.color %>"><%= reference.year %></div></li>
+
+      <% @posts.each do |post| %>
+        <% @count += 1 %>
+        <% if post.reference_point.id == reference.id %> 
+          <li class="<% if @count%2 == 0 %> <% concat "timeline-inverted" %> <% end %>" style="font-family: <%= post.font.font_family %>">
+            <div class="tl-circ" style="background-color: <%= post.circle_color%>"></div>
+            <div class="timeline-panel" style="background-color: <%= post.background.color %>">
+              <div class="tl-heading">
+                <h4 style="color:<%= post.title_color %>"><%= post.title %></h4>
+                <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i><%= post.date %></small></p>
+              </div>
+              <div class="tl-body">
+                <p><%= post.description %></p>
+                <% if post.img_url %>
+                <p><a href="<% if post.link %><%= post.link %><% end %>"><img src="<%= post.img_url %>" alt="test"></a></p>
+                <% end %>
+              </div>
+            </div>
+          </li>
+
+        <% end %>
+      <% end %>
+      <% end %>
+    <% end %>
+  </ul>    
+</div>
+<!-- Timeline ends -->
+<div class="container">
+  <div class="row text-center">
+    <button><a href="/admin/backgrounds/new" class="btn btn-info">Create your timeline!</a></button>
+  </div>
+</div>
